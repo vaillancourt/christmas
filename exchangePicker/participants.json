@@ -1,14 +1,14 @@
 {
     "participants": 
     [
-        ["p1",""],
-        ["p2",""],
-        ["p3",""],
-        ["p4",""],
-        ["p5",""],
-        ["p6",""],
-        ["p7",""],
-        ["p8",""]
+        ["p1","p1@example.com"],
+        ["p2","p2@example.com"],
+        ["p3","p3@example.com"],
+        ["p4","p4@example.com"],
+        ["p5","p5@example.com"],
+        ["p6","p6@example.com"],
+        ["p7","p7@example.com"],
+        ["p8","p8@example.com"]
     ],
     "exclusions":
     {

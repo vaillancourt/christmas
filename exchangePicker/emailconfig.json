@@ -1,0 +1,7 @@
+{
+	"from_address":"example@example.com",
+	"to_test_address":"example@example.com",
+	"smtp_server":"example.com",
+	"from_username":"example@example.com",
+	"from_password":"example"
+}
